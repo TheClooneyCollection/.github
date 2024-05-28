@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ This is the collection of two "generations" of @NicholasClooney and his previous identity @NicholasTD07.
+🙋‍♀️ This is the collection of two "generations" of [@NicholasClooney](https://github.com/NicholasClooney) and his previous identity [@NicholasTD07](https://github.com/NicholasTD07).
 
 <!--
 
