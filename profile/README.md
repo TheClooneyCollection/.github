@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🙋‍♀️ This is the collection of two "generations" of [@NicholasClooney](https://github.com/NicholasClooney) and his previous identity [@NicholasTD07](https://github.com/NicholasTD07).
+🙋‍♀️ This is the collection of two "generations" of Nicholas, i.e. [@NicholasClooney](https://github.com/NicholasClooney) and his previous identity [@NicholasTD07](https://github.com/NicholasTD07).
 
-This is also the collection of some of Nicholas's work. For all his work, check out his personal repos on each of the acconts.
+This is also the collection of some of Nicholas's work. For the reminder of his work, check out his personal repos on each of the acconts.
 
 <!--
 
